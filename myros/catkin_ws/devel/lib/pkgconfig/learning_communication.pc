@@ -1,0 +1,8 @@
+prefix=/home/duan/文档/Ros/myros/catkin_ws/devel
+
+Name: learning_communication
+Description: Description of learning_communication
+Version: 0.0.0
+Cflags: -I/home/duan/文档/Ros/myros/catkin_ws/devel/include -I/home/duan/文档/Ros/myros/catkin_ws/src/learning_communication/include
+Libs: -L/home/duan/文档/Ros/myros/catkin_ws/devel/lib -llearning_communication
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

@@ -1,0 +1,2 @@
+learning_communication
+-DCATKIN_DEVEL_PREFIX=/home/duan/文档/Ros/myros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/duan/文档/Ros/myros/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,22 @@
+# Hashes of file build rules.
+4444d67877c606f194bb1156ff47a99f /home/duan/文档/Ros/myros/catkin_ws/devel/include/learning_communication/AddTwoInts.h
+80de0f579abf52ce9d7ce4836c2db0b5 /home/duan/文档/Ros/myros/catkin_ws/devel/include/learning_communication/Person.h
+6791064513e020f5ea60299ac0e1c3b6 /home/duan/文档/Ros/myros/catkin_ws/devel/lib/python2.7/dist-packages/learning_communication/msg/_Person.py
+035c06733cd5585982da6e4a765535b2 /home/duan/文档/Ros/myros/catkin_ws/devel/lib/python2.7/dist-packages/learning_communication/msg/__init__.py
+6c04c81ca53a6bd59301495bb90b37ae /home/duan/文档/Ros/myros/catkin_ws/devel/lib/python2.7/dist-packages/learning_communication/srv/_AddTwoInts.py
+c27e2ce2dfdce40c9ca35d474b1e5846 /home/duan/文档/Ros/myros/catkin_ws/devel/lib/python2.7/dist-packages/learning_communication/srv/__init__.py
+aff47a0a5a0bfbe0152426ecfaa2ac52 /home/duan/文档/Ros/myros/catkin_ws/devel/share/common-lisp/ros/learning_communication/msg/Person.lisp
+00ea09d826ed28bf62445de9c1e5d6c9 /home/duan/文档/Ros/myros/catkin_ws/devel/share/common-lisp/ros/learning_communication/srv/AddTwoInts.lisp
+e206f257c3e2599426ecec7861664100 /home/duan/文档/Ros/myros/catkin_ws/devel/share/gennodejs/ros/learning_communication/msg/Person.js
+ab443753600d96c05d06608d2e9dfffe /home/duan/文档/Ros/myros/catkin_ws/devel/share/gennodejs/ros/learning_communication/srv/AddTwoInts.js
+d49a49c951dce5b71ba0457474e9a272 /home/duan/文档/Ros/myros/catkin_ws/devel/share/roseus/ros/learning_communication/manifest.l
+7bdef85b68f5dd016563280dbad4a9cd /home/duan/文档/Ros/myros/catkin_ws/devel/share/roseus/ros/learning_communication/msg/Person.l
+13a42ef17171a82476851df14fc586c1 /home/duan/文档/Ros/myros/catkin_ws/devel/share/roseus/ros/learning_communication/srv/AddTwoInts.l
+735df72feff035e9305d7ca79c2f2c49 CMakeFiles/clean_test_results
+f61b956c53cf9b8a77bb4be75f90e75e learning_communication/CMakeFiles/_learning_communication_generate_messages_check_deps_AddTwoInts
+577fd5f76c0be1fdb9b312b8f9c0787f learning_communication/CMakeFiles/_learning_communication_generate_messages_check_deps_Person
+fa6c4470d1214825f561455c247077b3 learning_communication/CMakeFiles/learning_communication_generate_messages_cpp
+fa6c4470d1214825f561455c247077b3 learning_communication/CMakeFiles/learning_communication_generate_messages_eus
+fa6c4470d1214825f561455c247077b3 learning_communication/CMakeFiles/learning_communication_generate_messages_lisp
+fa6c4470d1214825f561455c247077b3 learning_communication/CMakeFiles/learning_communication_generate_messages_nodejs
+fa6c4470d1214825f561455c247077b3 learning_communication/CMakeFiles/learning_communication_generate_messages_py
